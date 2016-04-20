@@ -6,5 +6,9 @@ public class Main {
 		// TODO Auto-generated method stub
 
 	}
+	public static void somefunction()
+	{
+		System.out.println("personb work");
+	}
 
 }
