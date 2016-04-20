@@ -10,6 +10,6 @@ public class Main {
 	public static void somefunction()
 	{
 		System.out.println("personb work");
-	}
-
+	} 
+  //add some thing here
 }
